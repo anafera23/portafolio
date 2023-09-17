@@ -34,8 +34,8 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
-  background-color: #1b1b32;
+  color: #531212;
+  background-color: #e2e2ac;
 }
 
 .seccion-clara {
@@ -322,9 +322,9 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(253, 101, 13);
+  background-color: #531212;
   border-radius: 10px;
-  box-shadow: 0px 1px 4px 1px white;
+  box-shadow: 0px 1px 4px 1px #6d4b18;
 }
 
 .contacto .row {
@@ -334,15 +334,15 @@ h1 {
 }
 
 .contacto .descripcion {
-  color: white;
+  color: #6d4b18;
   font-size: 1.2rem;
 }
 
 .contacto button {
-  color: white;
+  color: #6d4b18;
   font-weight: bold;
   background-color: transparent;
-  border: 2px solid white;
+  border: 2px solid #6d4b18;
   padding: 1.25em 2em;
   margin: 10px;
   border-radius: 100px;
@@ -355,7 +355,7 @@ h1 {
 }
 
 .contacto button i {
-  color: white;
+  color: #6d4b18;
   font-size: 1.3rem;
   transition: all 0.2s ease-in-out;
 }
@@ -391,13 +391,13 @@ footer {
   justify-content: center;
   padding: 2px;
   margin: 10px;
-  border: 2px solid white;
+  border: 2px solid #6d4b18;
   border-radius: 50%;
   transition: all 0.2s ease-in;
 }
 
 .iconos-redes-sociales i {
-  color: white;
+  color: #531212;
   font-size: 1.5rem;
   transition: all 0.2s ease-in;
 }
@@ -413,7 +413,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #6d4b18;
   padding: 20px;
 }
 
